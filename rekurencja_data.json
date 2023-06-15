@@ -1,0 +1,371 @@
+[
+  {
+    "title": "Aplikacja",
+    "icon": "mdi-application-cog-outline",
+    "items": [
+      {
+        "title": "Konta SMTP",
+        "link": "/smtpaccounts",
+        "permissionGroup": "smtp_smtp_account"
+      }
+    ]
+  },
+  {
+    "title": "Bifrost API",
+    "icon": "mdi-api",
+    "items": [
+      {
+        "title": "Bifrost Użytkownicy API",
+        "link": "/bifrost-apiuser",
+        "permissionGroup": "bifrost_api_user"
+      },
+      {
+        "title": "Bifrost Grupy użytkowników API",
+        "link": "/bifrost-apiusergroup",
+        "permissionGroup": "bifrost_api_user_group"
+      },
+      {
+        "title": "Bifrost uprawnienia",
+        "link": "/bifrost-permission",
+        "permissionGroup": "bifrost_permission"
+      },
+      {
+        "title": "Bifrost grupy uprawnień",
+        "link": "/bifrost-permissiongroup",
+        "permissionGroup": "bifrost_permission_group"
+      },
+      {
+        "title": "Bifrost role",
+        "link": "/bifrost-role",
+        "permissionGroup": "bifrost_role"
+      },
+      {
+        "title": "Bifrost logi",
+        "link": "/bifrost-logs",
+        "permissionGroup": "bifrost_log"
+      }
+    ]
+  },
+  {
+    "title": "Słowniki",
+    "icon": "mdi-book-open-outline",
+    "items": [
+      {
+        "title": "Piony firmy",
+        "link": "/dictionary-companyhighdepartment",
+        "permissionGroup": "dictionary_company_high_department"
+      },
+      {
+        "title": "Działy firmy",
+        "link": "/dictionary-companydepartment",
+        "permissionGroup": "dictionary_company_department"
+      },
+      {
+        "title": "Waluty",
+        "link": "/dictionary-currency",
+        "permissionGroup": "dictionary_currency"
+      },
+      {
+        "title": "Kraje",
+        "link": "/dictionary-country",
+        "permissionGroup": "dictionary_country"
+      },
+      {
+        "title": "Typy rabatów enduser-a",
+        "link": "/dictionary-enduserdiscounttype",
+        "permissionGroup": "dictionary_end_user_discount_type"
+      },
+      {
+        "title": "Grupy enduserów",
+        "link": "/dictionary-endusergroup",
+        "permissionGroup": "dictionary_end_user_group"
+      },
+      {
+        "title": "Kolory",
+        "link": "/dictionary-colour",
+        "permissionGroup": "dictionary_colour"
+      },
+      {
+        "title": "Kody pocztowe",
+        "link": "/dictionary-postalcode",
+        "permissionGroup": "dictionary_postal_code"
+      },
+      {
+        "title": "Typy licencji",
+        "link": "/dictionary-licensetype",
+        "permissionGroup": "dictionary_license_type"
+      }
+    ]
+  },
+  {
+    "title": "Użytkownicy",
+    "icon": "mdi-account-group-outline",
+    "items": [
+      {
+        "title": "Lista użytkowników",
+        "link": "/user-user",
+        "permissionGroup": "user_user"
+      },
+      {
+        "title": "Grupy użytkowników",
+        "link": "/user-group",
+        "permissionGroup": "user_grup"
+      },
+      {
+        "title": "Lista operatorów",
+        "link": "/user-operator",
+        "permissionGroup": "user_operator"
+      },
+      {
+        "title": "Grupy operatorów",
+        "link": "/user-operatorgroup",
+        "permissionGroup": "user_operator_group"
+      }
+    ]
+  },
+  {
+    "title": "Uprawnienia",
+    "icon": "mdi-tune",
+    "items": [
+      {
+        "title": "Uprawnienia",
+        "link": "/permission-permission",
+        "permissionGroup": "permission_permission"
+      },
+      {
+        "title": "Grupy uprawnień",
+        "link": "/permission-permissiongroup",
+        "permissionGroup": "permission_permission_group"
+      },
+      {
+        "title": "Role",
+        "link": "/permission-role",
+        "permissionGroup": "permission_role"
+      }
+    ]
+  },
+  {
+    "title": "Produkty",
+    "icon": "mdi-cube-outline",
+    "items": [
+      {
+        "title": "Producenci",
+        "link": "/product-manufacturer",
+        "permissionGroup": "product_manufacturer"
+      },
+      {
+        "title": "Kategorie produktów",
+        "link": "/product-category",
+        "permissionGroup": "product_category"
+      },
+      {
+        "title": "Produkty główne",
+        "link": "/product-mainproduct",
+        "permissionGroup": "product_main_product"
+      },
+      {
+        "title": "Produkty gł. - Parametry (sł)",
+        "link": "/product-mainproductparameter",
+        "permissionGroup": "product_parameter"
+      },
+      {
+        "title": "Produkty gł. - Parametry",
+        "link": "/product-mainproducthasparameter",
+        "permissionGroup": "product_main_product_has_parameter"
+      },
+      {
+        "title": "Produkty gł. - Grupy parametrów",
+        "link": "/product-mainproductparametergroup",
+        "permissionGroup": "product_parameter_group"
+      },
+      {
+        "title": "Produkty gł. - Operacje",
+        "link": "/product-mainproducthasoperation",
+        "permissionGroup": "product_main_product_has_operation"
+      }
+    ]
+  },
+  {
+    "title": "Kalkulatory",
+    "icon": "mdi-calculator",
+    "items": [
+      {
+        "title": "Kalkulator ESET",
+        "link": "/calculator-eset",
+        "permissionGroup": "calculator_eset_calculator"
+      }
+    ]
+  },
+  {
+    "title": "Klienci",
+    "icon": "mdi-shield-account-outline",
+    "items": [
+      {
+        "title": "Lista klientów",
+        "link": "/client-client",
+        "permissionGroup": "client_client"
+      },
+      {
+        "title": "Statusy partnerów",
+        "link": "/partner-status",
+        "permissionGroup": "partner_status"
+      }
+    ]
+  },
+  {
+    "title": "Statusy Partnerów",
+    "icon": "mdi-card-account-details-star-outline",
+    "items": [
+      {
+        "title": "Statusy partnerów",
+        "link": "/partner-statuses",
+        "permissionGroup": "partner_statuses"
+      },
+      {
+        "title": "Statusy partnerów - historia",
+        "link": "/partner-statuses-history",
+        "permissionGroup": "partner_statuses_history"
+      },
+      {
+        "title": "Statusy partnerów - rabaty",
+        "link": "/partner-statuses-discount",
+        "permissionGroup": "partner_statuses_discount"
+      },
+      {
+        "title": "Statusy partnerów - grupy produktów",
+        "link": "/partner-statuses-discount-product-groups",
+        "permissionGroup": "partner_statuses_discount_product_groups"
+      },
+      {
+        "title": "Statusy partnerów - kryteria",
+        "link": "/partner-statuses-criteria",
+        "permissionGroup": "partner_statuses_criteria"
+      },
+      {
+        "title": "Statusy partnerów - kryteria dla statusów",
+        "link": "/partner-statuses-criteria-for-statutses",
+        "permissionGroup": "partner_statuses_criteria_for_statuses"
+      }
+    ]
+  },
+  {
+    "title": "Projekty",
+    "icon": "mdi-chart-arc",
+    "items": [
+      {
+        "title": "Projekty - Widok Ogólny v1",
+        "link": "/projects-aggregate-view-v1",
+        "permissionGroup": "projects_aggregate_view_v1"
+      },
+      {
+        "title": "Projekty - Widok Ogólny v1 - API",
+        "link": "/projects-aggregate-view-v1-api",
+        "permissionGroup": "projects_aggregate_view_v1_api"
+      },
+      {
+        "title": "Projekty",
+        "link": "/project-items",
+        "permissionGroup": "project_items"
+      },
+      {
+        "title": "Projekty - widoki",
+        "link": "/project-item-views",
+        "permissionGroup": "project_item_views"
+      },
+      {
+        "title": "Projekty nagłówki",
+        "link": "/project-headers",
+        "permissionGroup": "project_headers"
+      },
+      {
+        "title": "Projekty nagłówki - widoki",
+        "link": "/project-header-views",
+        "permissionGroup": "project_header_views"
+      }
+    ],
+    "active": false
+  },
+  {
+    "title": "Artykuły",
+    "icon": "mdi-file-code-outline",
+    "items": [
+      {
+        "title": "Artykuły",
+        "link": "/article-article",
+        "permissionGroup": "article_article"
+      },
+      {
+        "title": "Kategorie artykułu",
+        "link": "/article-articlecategory",
+        "permissionGroup": "article_article_category"
+      },
+      {
+        "title": "Powiązania artykułów",
+        "link": "/article-articleassociation",
+        "permissionGroup": "article_article_association"
+      }
+    ]
+  },
+  {
+    "title": "Szablony",
+    "icon": "mdi-notebook-check-outline",
+    "items": [
+      {
+        "title": "Kategorie szablonów dokumentów",
+        "link": "/documenttemplate-category",
+        "permissionGroup": "document_template_document_template_category"
+      },
+      {
+        "title": "Szablony dokumentów",
+        "link": "/documenttemplate-list",
+        "permissionGroup": "document_template_document_template"
+      },
+      {
+        "title": "Kategorie szablonów e-mail",
+        "link": "/emailtemplate-category",
+        "permissionGroup": "email_template_email_template_category"
+      },
+      {
+        "title": "Konteksty użycia szablonów e-mail",
+        "link": "/emailtemplateusage-context",
+        "permissionGroup": "email_template_email_template_usage_context"
+      },
+      {
+        "title": "Szablony email",
+        "link": "/emailtemplate-list",
+        "permissionGroup": "email_template_document_template"
+      }
+    ]
+  },
+  {
+    "title": "RODO",
+    "icon": "mdi-security",
+    "items": [
+      {
+        "title": "Rejestr zbiorów danych",
+        "link": "/rodo-dataset",
+        "permissionGroup": "dataset_dataset"
+      },
+      {
+        "title": "Rejestr naruszeń - Klasyfikacje",
+        "link": "/rodo-infringementclassification",
+        "permissionGroup": "infringement_classification"
+      },
+      {
+        "title": "Rejestr incydentów",
+        "link": "/rodo-infringement",
+        "permissionGroup": "infringement_infringement"
+      },
+      {
+        "title": "Rejestr czynnośći przetwarzania",
+        "link": "/rodo-processingactivity",
+        "permissionGroup": "processing_activity_processing_activity"
+      },
+      {
+        "title": "Rejestr kategorii czynnośći przetwarzania",
+        "link": "/rodo-processingactivitycategory",
+        "permissionGroup": "processing_activity_category_processing_activity"
+      }
+    ]
+  }
+]

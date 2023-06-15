@@ -1,0 +1,11 @@
+Plan działania:
+
+https://roadmap.sh/python
+
+1 - Sortowanie bąbelkowe i zdobywaj i dziel
+2 - Rekurencja
+3 - Stos
+4 - Hashmaps
+5 - Binary search
+6 - Linked lists
+7 - Hash tables
